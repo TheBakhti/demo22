@@ -1,0 +1,8 @@
+
+.label{
+    -fx-font-family: "Times New Roman";
+    -fx-font-weight: bold;
+    -fx-font-size: 20;
+    -fx-background-color: white;
+}
+#VBox
